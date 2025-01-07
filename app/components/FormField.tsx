@@ -1,4 +1,4 @@
-import { FormFieldProps } from "../api/form/route";
+import { FormFieldProps } from "@/types";
 
 const FormField: React.FC<FormFieldProps> = ({
   type,
